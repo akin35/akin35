@@ -15,7 +15,7 @@
 <a href="https://dev.to/akinkuyga35">
   <img alt="Akin's Dev" width="100px" height="35px" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
 </a>
-<a href="https://www.kaggle.com/akinkuyga35">
+<a href="https://www.kaggle.com/akinkuyga">
   <img alt="Akin's Kaggle" width="100px" height="35px" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
 </a>
 <br>
