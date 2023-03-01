@@ -56,7 +56,7 @@ hobbies: ["Playing piano", "Wood Working", "Outdoor Sports", "Gaming"]
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/akin35">GitHub</a>.</li>
 <li>📝 I regulary write articles on <a href="https://akinkuyga.medium.com">my blog</a>.</li>
 <li>💬 Ping me about <strong>Azure, AWS, Terraform, and cloud stuff</strong>.</li>
-<li>📙 Check out my <a href="https://www.akinkuyga.com/resume/resume.pdf">resume</a>.</li>
+<li>📙 Check out my <a href="https://github.com/akin35/resume">resume</a>.</li>
 </ul>
 
 <h2>⚡️ Several Notable Repositories</h2>
