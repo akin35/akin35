@@ -9,7 +9,7 @@
 <a href="https://akinkuyga.medium.com">
   <img alt="AkinKuyga's Medium" width="100px" height="35px" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
-<a href="https://twitter.com/akinkuyga35">
+<a href="https://twitter.com/akink35">
   <img alt="Akin's Twitter" width="100px" height="35px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 <a href="https://dev.to/akinkuyga35">
