@@ -9,14 +9,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/akin35/my_profile.git"
+        "url": "git+https://github.com/akin35/akinkuyga_profile.git"
     },
     "author": "Akin Kuyga",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/akin35/my_profile/issues"
+        "url": "https://github.com/akin35/akinkuyga_profile/issues"
     },
-    "homepage": "https://github.com/akin35/my_profile#readme",
+    "homepage": "https://github.com/akin35/akinkuyga_profile#readme",
     "dependencies": {
         "axios": "^0.21.1",
         "markdown-it": "^11.0.0",

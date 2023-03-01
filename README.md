@@ -112,14 +112,14 @@ Here are some repositories that initiated a spark during my Cloud and DevOps jou
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akin35&show_icons=true&locale=en&layout=compact"
-         alt="akin3540" /></p>
+         alt="akin35" /></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akin35&show_icons=true&locale=en&count_private=true" alt="akin3541" /> </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=akin35&show_icons=true&locale=en&count_private=true" alt="akin35" /> </p>
 
 <p align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=akin35"
-         alt="akin3542" /></p>
+         alt="akin35" /></p>
 
 <p align="center">
 <img src="https://visitor-badge.glitch.me/badge?page_id=akin35.akin35" alt="visitors"/></p>
