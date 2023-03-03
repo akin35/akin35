@@ -68,7 +68,7 @@ Here are some repositories that initiated a spark during my Cloud and DevOps jou
   | ------ | ------ |
   | [Azure Projects](https://github.com/akin35/creating_azure_resources_with_terraform) | Azure IaC projects using Terrform |
   | [AWS Projects](https://github.com/akin35/TerraformAzure) | AWS IaC projects using Terrform |
-  | [Docker swarm projects](https://github.com/akin35/docker-swarm-visualizer) | This is Docker swarm project and works only with Docker swarm mode which was introduced in Docker 1.12 |
+  | [Docker swarm projects](https://github.com/akin35/docker-swarm-visualizer) |This is Docker swarm project 
   | [Terraform-AWS-python](https://github.com/akin35/phonebook) | Terraform projects deploys python phonebook app | IaC |
   | [Azure DevOps](https://github.com/akin35/azuredevops_example1) | Simple application of Azure DevOps |
   | [Jenkins-pipeline](https://github.com/akin35/Jenkins_Pipiline_BAT) | Jenkins pipline automation | create schedule task
